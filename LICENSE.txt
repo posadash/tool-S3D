@@ -1,0 +1,95 @@
+NON-TRANSFERABLE AND NON-EXCLUSIVE LICENSE AGREEMENT
+FOR SOFTWARE UTILIZATION
+
+Thank you for choosing S3D!
+
+This is a license agreement between you and the University of Cantabria (hereinafter the UC). 
+Whereas the UC, by means of its Research and Development Group of Microelectronic Engineering 
+integrated in the DEPARTAMENTO TEISA (hereinafter the DEPARTMENT), has developed and is the 
+owner of tool S3D (hereinafter the Software).
+
+This agreement describes your rights and the conditions upon which you may use the Software. 
+You should review the entire agreement, including any supplemental license terms that accompany
+the Software and any linked terms, because all of the terms are important and together create 
+this agreement that applies to you. By accepting this agreement or using the Software, you 
+agree to all of these terms.
+
+UC and you are hereinafter individually referred to as the “Party”, and collectively as the “Parties”.
+
+OVERVIEW
+
+1.	DEFINITIONS
+1.1	Software: shall mean the downloaded computer program S3D. 
+1.2 Licence: shall mean the non-transferable license to use the Software.
+
+2.	LICENSE GRANT. Subject to the terms of this Agreement, the UC hereby grants you, non-exclusive 
+and non-transferable, royaltie-free license to use the Software. This license is limited to internal
+usage for testing, for educational purposes and for development and research activities.
+
+You provide feedback on the Software´s ability to work effectively for the purpose of further R&D 
+of the Software.
+
+3.	RESTRICTIONS. You may not (i) sell, rent, lease or sublicense rights in the Software or (ii) remove
+, alter or obliterate any trademark, logo, copyright or other proprietary notices, legends, symbols or
+labels in the Software. You shall ensure that its employees and/or consultants comply with all the terms
+and conditions of this license and shall be liable for breaches thereof.
+
+The license to you is limited to internal usage and only for non-commercial purposes, including research
+activities. 
+
+You may make modifications in the source code, when is limited to internal usage. It is not permitted to
+transfer the modified Software, under the terms of this license.
+
+4.	TERMINATION. The UC may terminate this Agreement if you breach any of the terms and conditions 
+recited herein. All provisions of this Agreement relating to disclaimers of warranties, limitation of 
+liability, indemnity or ownership shall survive termination. This Agreement shall also be terminated
+by mutual Agreement between the Parties. 
+
+5.	OWNERSHIP. All rights and ownership interest in the Software, including all intellectual property
+rights therein, shall remain in the UC. You acknowledge such ownership and intellectual property rights
+and will not take any action that jeopardizes limits, undermines or interferes with in any manner the 
+UC’s ownership and intellectual property rights with respect to the Software. UC reserves all rights not
+expressly granted to you in this Agreement. You shall not have any right, title, or interest in the Software
+thereof, except as provided in this Agreement, and shall further secure and protect all Software and 
+Documentation so as to maintain University's proprietary rights therein.
+
+6.	WARRANTY. The UC makes no representations or warranties of any kind concerning the Software, express
+or implied, including without limitation warranties of merchantability, fitness for a particular purpose.
+
+7.	LIABILITY. In no event shall the UC be liable for incidental or consequential damages of any kind,
+including economic damages or injury to property and loss of profit, regardless of whether the UC is advised,
+has another reason to know, or does in fact know of the possibility of the foregoing. In any case the total
+liability shall not exceed the total value of the fees paid, if any.  
+
+8.	INDEMNIFICATION. You shall indemnify, defend, and hold the UC harmless against any liability, damage, 
+loss, or expense incurred by or imposed upon any of the Indemnities in connection with any claims, suits, 
+actions, demands or judgments arising out of any theory of liability concerning any product, process, or 
+service that is made, used, sold, imposed, or performed pursuant to any right or license granted under this
+Agreement, including without limitation those arising on account of LICENSEES’s use of the Software.
+
+9.	PUBLICATIONS. In the event that you want to publish, partially or totally, the results from the Software,
+in any manner related to the Software, you must indicate the name of the University of Cantabria and the 
+authors (Eugenio Villar & Hector Posadas). 
+
+10.	GOVERNING LAW AND JURISDICTION. This Agreement shall be governed according to Spanish law. Any dispute,
+controversy or claim arising under, out of or relating to this contract and any subsequent amendments of 
+this contract, including, without limitation, its formation, validity, binding effect, interpretation, 
+performance, breach or termination, as well as non-contractual claims, shall be resolve amicably between 
+the Parties.
+
+If, and to the extent that, any such dispute, controversy or claim has not been settled pursuant to the 
+mediation within (60) days of the beginning of the amicably resolution, it shall, upon the filing of a 
+Request for Arbitration by either Party, be referred to and finally determined by arbitration in accordance
+with the WIPO Expedited Arbitration Rules. Alternatively, if, before the expiration of the said period of
+(60) days, either Party fails to participate or to continue to participate in the amicably resolution, the 
+dispute, controversy or claim shall, upon the filing of a Request for Arbitration by the other Party, be 
+referred to and finally determined by arbitration in accordance with the WIPO Expedited Arbitration Rules. 
+The arbitral tribunal shall consist of a sole arbitrator. The place of arbitration shall be Santander (Cantabria,
+Spain). The language to be used in the arbitral proceedings shall be Spanish.
+
+11.	NOTICE. Any communication, advice, request, consent, notice or instruction to be given under this Agreement
+shall be made in writing and sent by fax with a confirmation copy posted in a letter or forwarded by first class
+prepaid post (registered or recorded delivery) to you and shall be deemed to have been given on the date of the 
+fax or on the day following the day on which the notice was posted. The other Party shall be notified of any 
+change or modification.
+
