@@ -1,4 +1,4 @@
-# tool-s3d
+# tool-S3D
 
 1. General information
 
